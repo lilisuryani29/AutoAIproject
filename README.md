@@ -81,7 +81,7 @@ Notebook ini berisi langkah-langkah dan kode untuk mendemonstrasikan dukungan ek
 
 ## Setup Api keys
 
-![Experiment summary](./images/Setapikeys.jpg)
+![Experiment summary](./images/SetApikeys.jpg)
 Untuk mendapatkan api_key yaitu dengan cara:
 
 1. Buka dashboard lalu pilih Manage kemudian pilih Access (IAM)
