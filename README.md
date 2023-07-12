@@ -53,21 +53,17 @@ When you have completed this code pattern, you will understand how to:
 - Create a Watson Machine Learning service instance.
 - Create a Watson Studio project and load data.
 
-### Steps
-
-[Steps](https://drive.google.com/drive/folders/1vyjeogZNS5UZHiazj8xU-uB1QUJapMZ2?usp=sharing "Step-step")
-
 ### Dataset
 
 ![dataset](image.png)
 
 ### Experiment Summary
 
-## Relationship Map
+##### Relationship Map
 
 ![Experiment summary](./images/Experiment.jpg)
 
-## Progress Map
+##### Progress Map
 
 ![Experiment summary](./images/summary.jpg)
 Experiment summary bisa dilihat menggunakan mode Relationship map dan Progress map untuk melihat pipeline yang paling baik (top performance) akurasinya dari alghorithm yang digunakan yaitu: Snap Logistic Regression, Extra Trees Classifier, Random Forest Classifier, Logistic Regression.
